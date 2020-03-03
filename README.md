@@ -33,9 +33,9 @@ npm run client
 
 ## Todos
  
- [x] Build interface using React
- [x] Add Todo Functionality
- [x] Delete Todo Functionality
- [x] Deployable on Heroku
- [ ] Connect with MySQL Database
- [ ] Build API to maintain Todos
+ - [x] Build interface using React
+ - [x] Add Todo Functionality
+ - [x] Delete Todo Functionality
+ - [x] Deployable on Heroku
+ - [ ] Connect with MySQL Database
+ - [ ] Build API to maintain Todos
